@@ -21,3 +21,10 @@ cabal.project.local
 cabal.project.local~
 .HTF/
 .ghc.environment.*
+src/Lexer.hs
+src/Main
+shader/*
+.direnv/
+
+*.asm
+*.spv
